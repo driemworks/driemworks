@@ -1,7 +1,7 @@
 # Hi There
 <img src="https://media2.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif?cid=ecf05e47q5xchqhbc5cuswz06m7pvcxo53w4dfomzqvkqfnp&rid=giphy.gif&ct=g" width=50%/>
 
-I'm Tony Riemer. A full stack web developer, polyglot, experimenter, blockchain engineer, and all around enthusiast of decentralization, machine learning, and mathematics. 
+I'm Tony Riemer. A full stack web developer, solutions architect, polyglot, experimenter, blockchain engineer, and all around enthusiast of decentralization and mathematics. 
 
 ---
 - 🔭 I’m currently researching [a fully decentralized pinning service](https://github.com/mystery-team)
