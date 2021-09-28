@@ -5,6 +5,7 @@ I'm Tony Riemer. A full stack web developer, polyglot, experimenter, blockchain 
 
 ---
 - 🔭 I’m currently researching [a fully decentralized pinning service](https://github.com/mystery-team)
+- 📚 Apprendiendo Español
 - 📫 Let's chat: 
   - discord:    driemworks#1849
   - element.io: @driemworks
