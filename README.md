@@ -11,8 +11,10 @@ I'm Tony Riemer. A full stack web developer, solutions architect, polyglot, expe
   - element.io: @driemworks
 ---
 
-![Twitter](https://img.shields.io/badge/driemworks-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@tonyrriemer)
+[![Twitter](https://img.shields.io/badge/driemworks-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/driemworks)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/tony-riemer/))
+
 
 ![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=driemworks&show_icons=true)
 
