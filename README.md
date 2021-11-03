@@ -7,10 +7,10 @@ I'm Tony, a full stack engineer, polyglot, experimenter, and all around enthusia
 [![Twitter](https://img.shields.io/badge/driemworks-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/driemworks)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-riemer/)
 ---
-- 🔭 I’m working [decentralized storage](https://github.com/iridium-labs)
+- 🔭 I’m working on a substrate-based decentralized storage network @ [iridium](https://github.com/iridium-labs)
 - 📚 Apprendiendo Español
-- 📫 Let's chat: 
-  - discord:    driemworks#1849
+- 📫 Let's chat!
+  - discord: driemworks#1849
 ---
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
