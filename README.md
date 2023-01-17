@@ -7,7 +7,7 @@ I'm Tony, a full stack engineer, polyglot, experimenter, and enthusiast of caffe
 [![Twitter](https://img.shields.io/badge/driemworks-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/driemworks)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-riemer/)
 ---
-- 🔭 Founder & Lead engineer @ [ideal labs](https://github.com/ideal-lab5)
+- 🔭 i make things @ [ideal labs](https://github.com/ideal-lab5)
 - 📚 Apprendiendo Español
 ---
 ![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=driemworks&show_icons=true)
