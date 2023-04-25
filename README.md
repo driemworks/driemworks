@@ -1,6 +1,4 @@
 # Hi There
-<img src="https://media2.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif?cid=ecf05e47q5xchqhbc5cuswz06m7pvcxo53w4dfomzqvkqfnp&rid=giphy.gif&ct=g" width=50%/>
-
 I'm Tony, a full stack engineer, polyglot, experimenter, and enthusiast of caffeine, cats, and decentralization (in that order). 
 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@tonyrriemer)
