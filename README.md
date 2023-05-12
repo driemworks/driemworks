@@ -10,5 +10,3 @@ I'm Tony, a full stack engineer, polyglot, experimenter, and enthusiast of caffe
 - 📚 Apprendiendo Español
 ---
 ![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=driemworks&show_icons=true)
-
-![Visitors count](https://profile-counter.glitch.me/driemworks/count.svg)
