@@ -4,5 +4,4 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-riemer/)
 ---
 - 🔭 i make things @ [ideal labs](https://github.com/ideal-lab5)
-- 📚 Apprendiendo Español
 ---
